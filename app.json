@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "new-login",
+    "slug": "new-login",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
